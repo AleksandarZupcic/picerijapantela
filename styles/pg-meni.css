@@ -1,0 +1,251 @@
+.meni-jumbo{
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 0px;
+    margin-bottom: 10px;
+}
+
+.meni-jumbo .row{
+    border: 5px double black;
+    background-color: whitesmoke;
+}
+
+.meni-jumbo p{
+    margin: 5px;
+    text-align: justify;
+}
+
+.jumbo-img{
+    clip-path: polygon(53% 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.display-3{
+    color: var(--pantela-green);
+}
+
+.menu {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(200, 200, 200, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 4px double black;
+}
+
+
+.menu-item{
+    background-color: white;
+    display: flex;
+    border-color: var(--pantela-green);
+    margin: 7px;
+    font-size: 1.5rem;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    border: 4px double;
+    border-color: var(--pantela-green);
+    padding: 0 !important;
+}
+
+.menu-item a{
+    color: black;
+    margin: 0px;
+    text-decoration: none;
+}
+
+.menu-item a:hover{
+    background-color: var(--pantela-red);
+    color: white;
+}
+
+.menu-options{
+    background-color: rgba(200, 200, 200, 0.5);
+    overflow-y: auto;
+    max-height: 500px;
+    border: 5px double black;
+}
+
+.menu-options .card{
+    margin: 5px;
+    margin-left: -5px;
+    border: none;
+    background: none;
+}
+
+.menu-title{
+    background-color: var(--pantela-red);
+    border: 3px dashed white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.menu-title h5{
+    color: white;
+    font-size: 20px !important;
+}
+
+.menu-img{
+    border: 2px dashed black;
+    border-top: none;
+    border-bottom: none;
+}
+
+.menu-pricing{
+    border: 3px dashed green;
+    background: white;
+}
+
+.menu-price a{
+    font-weight: bold;
+    background-color: var(--pantela-red) !important;
+}
+
+.menu-price p{
+    margin-bottom: 0px;
+}
+
+.menu-pricing a{
+    width: 100%;
+    display: inline-block;
+}
+
+.menu-pricing a:hover{
+    background-color: var(--pantela-green);
+    color: white;
+    border-radius: 6px;
+}
+
+.menu-pricing a:active{
+    background-color: var(--pantela-red);
+    color: white;
+}
+
+.naruci{
+    background-color: var(--pantela-green);
+    border-color: black;
+}
+
+.naruci:hover{
+    background-color: var(--pantela-red) !important;
+    color: black;
+}
+
+.prilozi{
+    margin-top: 5px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+
+.prilozi h2{
+    background-color: whitesmoke;
+    border: 2px dashed red;
+}
+
+.prilog{
+    font-size: 20px;
+    border: 1px dashed black;
+    background-color: rgba(200, 200, 200, 0.8);
+    padding: 0 !important;
+}
+
+.prilog p{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: inline-block;
+    width: 100%;
+    text-decoration: none;
+    font-family: "Pantela Main";
+    margin-bottom: 0px;
+}
+
+.prilog a:hover{
+    opacity: 0.9;
+}
+
+.kecap{
+    background-color: rgb(213, 21, 21);
+    color: whitesmoke;
+}
+
+.pavlaka{
+    background-color: whitesmoke;
+}
+
+.tucana{
+    background-color: rgb(131, 0, 0);
+    color: whitesmoke;
+}
+
+.majonez{
+    background-color: rgba(255, 210, 63);
+    color: black;
+}
+
+.senf{
+    background-color: rgba(255, 225, 1);
+    color: black;
+}
+
+.luk{
+    background-color: rgba(221, 206, 172);
+    color: black;
+}
+
+.kupus{
+    background-color: rgba(103, 186, 35);
+    color: rgb(0, 0, 0);
+}
+
+.cili{
+    background-color: rgba(255, 78, 39);
+    color: rgb(0, 0, 0);
+}
+
+.urnebes {
+    background-color: rgba(255, 192, 169);
+    color: rgb(0, 0, 0);
+}
+
+.plazma {
+    background-color:sandybrown
+}
+
+.banana{
+    background-color: rgb(255, 225, 53);
+}
+
+.orah{
+    background-color: rgb(119, 63, 26);
+    color: whitesmoke;
+}
+
+.visnja{
+    background-color: rgb(174,35,33);
+    color: whitesmoke;
+}
+
+.malina{
+    background-color: rgb(227, 11, 93);
+}
+
+.lesnik{
+    background-color: rgb(168, 113, 90);
+}
+
+.badem{
+    background-color: rgba(226, 173, 149, 0.857);
+}
+
+.dodatno{
+    background-color: whitesmoke;
+    padding: 5px;
+    border: 2px dashed black;
+    border-top: none;
+}
+
+.dodatno p{
+    margin: 0;
+    font-size: 15px;
+    text-align: center;
+}

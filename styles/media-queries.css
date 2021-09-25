@@ -1,0 +1,11 @@
+@media only screen and (min-width: 992px) {
+    .menu-img{
+        height: 210px;
+    }
+}
+
+@media only screen and (max-width: 1000px ) {
+    .jumbo-img{
+        display: none;
+    }
+}

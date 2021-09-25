@@ -1,0 +1,11 @@
+.onama{
+    border: 2px solid black;
+}
+
+.onama p {
+    font-size: 1.6rem;
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 1px;
+    border: 1px solid var(--pantela-green);
+}

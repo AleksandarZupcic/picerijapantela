@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+@font-face {
+    font-family: "Pantela Main";
+    src: url(../fonts/Bree_Serif/BreeSerif-Regular.ttf);
+}
+
+/*
+--head-font: 'Bree Serif', serif;
+*/
+
+p{
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+h1,
+.display-3,
+a,
+.menu-item,
+.menu-title,
+.author-copy
+{
+    font-family: "Pantela Main" !important;
+}
+
+.pantela-main, strong{
+    font-family: "Pantela Main" !important;
+}

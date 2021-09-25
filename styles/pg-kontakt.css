@@ -1,0 +1,56 @@
+.kontakt{   
+    background-color: whitesmoke;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    border: 4px double black;
+    padding: 0px !important;
+    font-family: "Pantela Main" !important;
+}
+
+.kontakt p {
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+    border: 1px solid var(--pantela-green);
+    margin: 0px;
+    text-align: center;
+}
+
+.kontakt h2{
+    background-color: var(--pantela-red);
+    color: white;
+    border: 2px dashed red;
+    padding: 5px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.kontakt a{
+    text-decoration: none;
+}
+
+.kontakt a > p:hover{
+    background-color: var(--pantela-green) !important;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.kontakt table{
+    width: 100%;
+}
+
+.kontakt table td{
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 1.2rem;
+}
+
+.radno-vreme{
+    text-align: center;
+}
+
+.googlemap{
+    height: 450px;
+    width: 100%;
+    border: none;
+}
